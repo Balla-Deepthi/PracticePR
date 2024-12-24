@@ -1,2 +1,6 @@
 Hello start practicing git 
+satya
 Hi i am satya v2.0
+
+updated by pavani
+main
